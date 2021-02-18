@@ -1,0 +1,8 @@
+.idea/
+build/*.js
+src/assets
+public
+dist
+
+# Editor directories and files
+.idea

@@ -1,0 +1,8 @@
+.idea/*
+.vscode/*
+/Code/Frontend/dist/
+/Code/Frontend/node_modules/
+/Code/Frontend/package-lock.json
+/Code/Frontend/yarn.lock
+/Code/Frontend/yarn-error.log
+/Code/Frontend/src/.eslintrc.js
